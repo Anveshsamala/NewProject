@@ -8,8 +8,7 @@ import com.utilities.Basicclass;
 
 public class FacebookLoginpage {
 	
-	
-	
+		
 	@FindBy(id = "email")
 	private WebElement usernamef;
 	
